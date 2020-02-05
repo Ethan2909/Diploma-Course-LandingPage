@@ -1,0 +1,65 @@
+.inline {
+    
+    display:inline;
+}
+
+#topSection {
+    
+    background-image: url(chill.jpg);
+    background-size: 100%;
+    background-position: center;
+    color: deepskyblue;
+    
+}
+
+#netCoinTitle {
+    
+    padding-left:10px;
+}
+
+#logo {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.netCoinBlock {
+    
+    padding:0;
+    margin:0;
+    
+}
+
+.rowSpace img {
+    
+ text-align: center;
+    padding-top: 10px;
+}
+
+.rowSpace h2 {
+    
+    padding-top:20px;
+    text-align: left;
+}
+
+.netCoinLaunch {
+    
+    background-color: deepskyblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: dimgray;
+}
+
+
+footer {
+    opacity: 0;
+}
+
+.container {
+    
+    background-color: dimgray;
+    color: deepskyblue
+}
+
